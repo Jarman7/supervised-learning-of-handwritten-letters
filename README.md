@@ -1,1 +1,1 @@
-# supervised-learning-of-handwritten-letters
+# Supervised Learning of Handwritten Letters
